@@ -8,7 +8,7 @@
 #include "SFMODEventEditorPanel.h"
 #include "Widgets/Docking/SDockTab.h"
 #include "fmod_studio.hpp"
-#include "Editor.h"
+#include "UnrealEd/Public/Editor.h"
 
 #define LOCTEXT_NAMESPACE "FMODEventEditor"
 

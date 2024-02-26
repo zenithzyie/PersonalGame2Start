@@ -4,9 +4,7 @@
 
 //#include "PropertyEditing.h"
 #include "PropertyCustomizationHelpers.h"
-#include "IDetailCustomization.h"
-
-class IDetailLayoutBuilder;
+#include "PropertyEditor/Public/IDetailCustomization.h"
 
 class FFMODAudioComponentDetails : public IDetailCustomization
 {
